@@ -49,3 +49,70 @@ const userData = [
   },
 ];
 export default userData;
+const userRows = [
+  {
+    id: 1,
+    username: "Youssef Sayed",
+    avatar: "https://i.imgur.com/0LoUI2g.jpg",
+    email: "youssef@hotmail.com",
+    status: "active",
+    transaction: "$120.00",
+  },
+  {
+    id: 2,
+    username: "Youssef Sayed",
+    avatar: "https://i.imgur.com/0LoUI2g.jpg",
+    email: "youssef@hotmail.com",
+    status: "active",
+    transaction: "$120.00",
+  },
+  {
+    id: 3,
+    username: "Youssef Sayed",
+    avatar: "https://i.imgur.com/0LoUI2g.jpg",
+    email: "youssef@hotmail.com",
+    status: "active",
+    transaction: "$120.00",
+  },
+  {
+    id: 4,
+    username: "Youssef Sayed",
+    avatar: "https://i.imgur.com/0LoUI2g.jpg",
+    email: "youssef@hotmail.com",
+    status: "active",
+    transaction: "$120.00",
+  },
+  {
+    id: 5,
+    username: "Youssef Sayed",
+    avatar: "https://i.imgur.com/0LoUI2g.jpg",
+    email: "youssef@hotmail.com",
+    status: "active",
+    transaction: "$120.00",
+  },
+  {
+    id: 6,
+    username: "Youssef Sayed",
+    avatar: "https://i.imgur.com/0LoUI2g.jpg",
+    email: "youssef@hotmail.com",
+    status: "active",
+    transaction: "$120.00",
+  },
+  {
+    id: 7,
+    username: "Youssef Sayed",
+    avatar: "https://i.imgur.com/0LoUI2g.jpg",
+    email: "youssef@hotmail.com",
+    status: "active",
+    transaction: "$120.00",
+  },
+  {
+    id: 8,
+    username: "Youssef Sayed",
+    avatar: "https://i.imgur.com/0LoUI2g.jpg",
+    email: "youssef@hotmail.com",
+    status: "active",
+    transaction: "$120.00",
+  },
+];
+export { userRows };
